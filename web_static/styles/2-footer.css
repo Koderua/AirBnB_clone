@@ -1,10 +1,10 @@
+/* Styles for the footer element */
+
 footer {
-background-color: #00ff00;
-height: 60px;
-width: 100%;
-line-height: 65px;
-text-align: center;
-vertical-align: 0%;
-position: absolute;
-top: 100%;
+    background-color: #00FF00;
+    height: 60px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
 }

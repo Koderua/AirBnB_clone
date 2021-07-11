@@ -1,11 +1,12 @@
+/* Styles for the footer element */
+
 footer {
-background-color: white;
-height: 60px;
-width: 100%;
-line-height: 65px;
-text-align: center;
-vertical-align: 0%;
-position: absolute;
-top: 100%;
-border-top: 1px solid #CCCCCC;
+    margin-top: auto;
+    background-color: white;
+    height: 60px;
+    width: 100%;
+    position: sticky;
+    bottom: 0;
+    text-align: center;
+    border-top: 1px solid #CCCCCC;
 }
